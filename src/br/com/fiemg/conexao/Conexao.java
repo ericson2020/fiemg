@@ -25,7 +25,8 @@ public class Conexao {
         try {
             con.close();
         } catch (Exception e) {
-            JOptionPane.showMessageDialog(null,"Erro teste 3" +e);
+            JOptionPane.showMessageDialog(null,"Erro teste 4" +e);
+
 
 
 
